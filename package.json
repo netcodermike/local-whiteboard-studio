@@ -1,0 +1,1 @@
+{"name":"local-whiteboard-studio","private":true,"type":"module","version":"1.0.0","engines":{"node":">=24.12"},"scripts":{"start":"node server.ts","test":"node --test test.ts"}}
